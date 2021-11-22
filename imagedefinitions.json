@@ -1,0 +1,6 @@
+[
+    {
+        "name": "$ECR_CONTAINER_NAME",
+        "imageUri": "$AWS_DEFAULT_REGION.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/$ECR_IMAGE_NAME:latest"
+    }
+]
